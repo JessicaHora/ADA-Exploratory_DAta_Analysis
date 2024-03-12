@@ -1,4 +1,5 @@
 # ADA-Exploratory_DAta_Analysis
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 - Instituição: Ada Tech- Rudiney Casali 
 - Curso: Engenharia de Dados
