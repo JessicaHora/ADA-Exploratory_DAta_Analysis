@@ -6,7 +6,7 @@
 - Professores: Rudiney Casali & Luís Fernando Teixeira Bicalho
 - Alunos: Guilherme Oliveira,Jessica Hora,Joao Gabriel,Lindy Macedo,Lucas Guimaraes
 
-  Esse Projeto é uma exploração de Dados do Dataset: [https://discord.com/channels/1216858660970430554/1216858661628940380/1216914751175655446](https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024),fornecido pelo [Kaggle](https://www.kaggle.com/). 
+  Esse Projeto é uma exploração de Dados do Dataset:  [Salary Data Science 2020-2024 ](https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024),fornecido pelo [Kaggle](https://www.kaggle.com/). 
  Nosso Objetivo é explorar os dados e descobrir informações sobre os salarios de profissionais de Data Science entre 2020 e 2024, encontrar padrãoes e gerar insightes que possam ser extraido dos dados.
 
 ## Conteúdo
@@ -63,4 +63,4 @@ ADA-Exploratory_Data_Analysis
 │   |
 │   └── main.ipyn
 
-
+ 
