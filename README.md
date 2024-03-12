@@ -8,7 +8,7 @@
 - Alunos: Guilherme Oliveira,Jessica Hora,Joao Gabriel,Lindy Macedo,Lucas Guimaraes
 
   Esse Projeto é uma exploração de Dados do Dataset:  [Salary Data Science 2020-2024 ](https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024),fornecido pelo [Kaggle](https://www.kaggle.com/). 
- Nosso Objetivo é explorar os dados e descobrir informações sobre os salarios de profissionais de Data Science entre 2020 e 2024, encontrar padrãoes e gerar insightes que possam ser extraido dos dados.
+ Nosso Objetivo é explorar os dados e descobrir informações sobre os salarios de profissionais de Data Science entre 2020 e 2024, encontrar  padrões e gerar insights que possam ser extraido dos dados.
 
 ## Conteúdo
 
