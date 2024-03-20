@@ -40,28 +40,12 @@
 ADA-Exploratory_Data_Analysis
 ├── License
 ├── Readme.md
-├── datasets
-│   ├── 
-│   │   ├── 
-│   │   ├── 
-│   │   └── 
-│   ├── processed
-│   │   ├── 
-│   │   └── 
+├── datasets    
+│   ├── processed  
 │   └── raw
-│       ├── data_science_salaries.csv
-│       
+│       ├── data_science_salaries.csv     
 ├── notebooks
 │   ├── edas
-│   │   ├── 
-│   │   ├── 
-│   │   ├── 
-│   │   ├── 
-│   │   ├── 
-│   │   └── 
-│   |
-│   | 
-│   |
 │   └── main.ipyn
 
  
